@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./YOUR-IMAGE-NAME.png" width="100%" alt="CartonIQ - Mohd Arsh">
+  <img src="./1792554606843.png" width="100%" alt="CartonIQ - Mohd Arsh">
 </div>
 
 👋 Hey, I'm Mohd Arsh
