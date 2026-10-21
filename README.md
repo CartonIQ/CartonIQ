@@ -1,45 +1,44 @@
 <div align="center">
-  <img src="./1792554606843.png" width="100%" alt="CartonIQ - Mohd Arsh">
-</div>
+  <img src="./1792554606843.png" width="100%" alt="CartonIQ Banner"/>  <h1>⚡ CARTONIQ</h1>
+  <h3>Mohd Arsh | Android App Developer</h3>  <p>
+    <b>BUILDING IDEAS INTO APPS.</b><br/>
+    Turning creative ideas into useful software.
+  </p>  <img src="https://img.shields.io/badge/Android-Developer-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-Learning%20%26%20Building-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Termux-Mobile%20Dev-000000?style=for-the-badge&logo=terminal&logoColor=white"/></div>---
 
-👋 Hey, I'm Mohd Arsh
+👨‍💻 About Me
 
-🚀 Android App Developer | Founder of CartonIQ
+Hey! I'm Mohd Arsh, the developer behind CartonIQ.
 
-Welcome to my GitHub profile! I'm an app developer who loves turning ideas into real projects, experimenting with technology, and building useful tools.
+I enjoy building Android applications, experimenting with new technologies, and turning ideas into real projects.
 
-💻 About Me
+- 📱 Exploring Android app development
+- 🛠️ Building and testing projects using Termux
+- 🤖 Exploring AI-assisted development
+- 🎨 Improving UI/UX and application design
+- 🚀 Learning by building real projects
 
-- 📱 Building Android applications and developer tools
-- 🛠️ Working with Termux and Android development workflows
-- 🤖 Exploring AI-assisted coding and app development
-- 🎨 Interested in modern UI/UX design and powerful app features
-- 🚀 Always learning, building, testing, and improving
+⚙️ Tech Stack
 
-🧰 Technologies & Tools
+<div align="center"><img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,git,github,gradle,linux" alt="Developer tools and technologies"/></div>🚀 What I'm Working On
 
-- Kotlin
-- Java
-- Android SDK
-- Jetpack Compose
-- Gradle
-- Git & GitHub
-- Linux / Termux
-- AI-assisted development
+- 📦 Android applications and developer utilities
+- 🔍 APK analysis and app inspection tools
+- 🎨 Modern interfaces and better user experiences
+- 🧪 Debugging, testing, and improving app reliability
 
-🎯 My Goals
+🎯 My Mission
 
-- Build powerful and reliable Android applications
-- Create clean, modern user interfaces
-- Develop useful tools for other developers
-- Turn creative ideas into working software
+«Build useful things. Keep learning. Turn ideas into reality.»
 
-🤝 Let's Connect
+🤝 Connect With Me
 
-I'm always exploring new ideas and working on new projects.
+Explore my repositories to see what I'm building.
 
-CartonIQ | Built with curiosity. Driven by code. 🔥
-
----
+<div align="center">CARTONIQ
+Curiosity × Creativity × Code
 
 ⭐ Thanks for visiting my profile!
+
+</div>
