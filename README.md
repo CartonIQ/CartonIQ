@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./YOUR-IMAGE-NAME.png" width="100%" alt="CartonIQ - Mohd Arsh">
+</div>
+
 👋 Hey, I'm Mohd Arsh
 
 🚀 Android App Developer | Founder of CartonIQ
