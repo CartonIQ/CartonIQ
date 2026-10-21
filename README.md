@@ -65,3 +65,34 @@ Exploring ideas, building features, and developing useful mobile experiences.
 ---
 
 More projects coming soon. Built with curiosity, creativity, and code.
+---
+
+📂 Project Structure
+
+CartonIQ-Android/
+├── README.md
+├── SCREENSHOT.md
+├── 1792554606843.png
+└── file_*.png
+
+🛠️ Technology Stack
+
+- ⚛️ React
+- ⚡ Vite
+- 🎨 Tailwind CSS
+- 📱 Capacitor
+- 🤖 Android native integration
+
+📌 Project Status
+
+CartonIQ is an ongoing project focused on carton packaging calculations, box design, costing, quotations, and order management.
+
+🔒 Copyright & License
+
+Copyright (c) 2024 Velora Explains (CartonIQ). All Rights Reserved.
+
+Unauthorized copying, modification, redistribution, republishing, or commercial use is prohibited without permission from the copyright holder.
+
+---
+
+<p align="center">Made with ❤️ for the packaging industry</p>
