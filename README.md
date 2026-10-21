@@ -42,3 +42,26 @@ Curiosity × Creativity × Code
 ⭐ Thanks for visiting my profile!
 
 </div>
+
+---
+
+🚀 Featured Projects
+
+<div align="center">📱 CartonIQ
+
+An Android app project by Mohd Arsh
+
+Exploring ideas, building features, and developing useful mobile experiences.
+
+"🔗 VIEW CARTONIQ SOURCE CODE →" (https://github.com/veloraexplains/CartonIQ)
+
+</div>🛠️ Project Details
+
+- Platform: Android
+- Developer: Mohd Arsh
+- Repository: "veloraexplains/CartonIQ" (https://github.com/veloraexplains/CartonIQ)
+- Focus: Android application development
+
+---
+
+More projects coming soon. Built with curiosity, creativity, and code.
