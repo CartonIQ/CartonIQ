@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./1792554606843.png" width="100%" alt="CartonIQ Banner"/>  <h1>⚡ CARTONIQ</h1>
+  <img src="./d47b7f0ccfdfd79d9c6f420db211b6e745e77af0cffdce41714f93e5be072b31.png" width="100%" alt="CartonIQ Banner"/>  <h1>⚡ CARTONIQ</h1>
   <h3>Mohd Arsh | Android App Developer</h3>  <p>
     <b>BUILDING IDEAS INTO APPS.</b><br/>
     Turning creative ideas into useful software.
